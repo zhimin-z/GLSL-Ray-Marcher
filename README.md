@@ -2,7 +2,7 @@
 
 **GLSL Ray Marching**
 
-**University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 5**
+**University of Pennsylvania, [CIS 565 GPU Programming and Architecture](https://cis565-fall-2022.github.io/), Project 5**
 
 * Zhimin Zhao
 * Tested on: Chrome - Version 45.0.2454.93 m
